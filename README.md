@@ -19,4 +19,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 
 ## Licença
 
-Este projeto ainda não tem uma licença definida no momento.
+Este projeto não tem uma licença definida, mas foi realizado no curso de React Native da OneBitCode.
